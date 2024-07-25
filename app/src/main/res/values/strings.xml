@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Without login</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_anime">Anime</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_history">History</string>
+
+    <string name="anime_name_default">Name hasn\'t been determined</string>
+    <string name="anime_description_default">The description was not specified when creating,
+you can try to edit or leave a request for editing. The description was not specified when creating,
+you can try to edit or leave a request for editing. The description was not specified when creating,
+you can try to edit or leave a request for editing. </string>
+
+</resources>
