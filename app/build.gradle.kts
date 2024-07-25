@@ -41,7 +41,6 @@ dependencies {
     annotationProcessor ("com.github.bumptech.glide:compiler:4.12.0")
     implementation ("com.google.android.exoplayer:exoplayer:2.16.1")
     implementation ("com.google.android.exoplayer:exoplayer-ui:2.16.1")
-    implementation ("com.google.android.exoplayer:extension-hevc:2.16.1")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.constraintlayout)
